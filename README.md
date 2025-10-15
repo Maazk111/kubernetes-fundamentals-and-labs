@@ -1,13 +1,16 @@
-# 🧱 Kubernetes Fundamentals & Labs
+# ☸️ Kubernetes Fundamentals & Labs 
 
 ## 📘 Overview
 
-This repository showcases hands-on mastery of Kubernetes fundamentals through real-world lab exercises, YAML configurations, and Helm-based deployments — designed for DevOps recruiters and practitioners evaluating practical container orchestration skills.
+This repository demonstrates **hands-on mastery** of **Kubernetes fundamentals** through **real-world lab exercises**, **YAML configurations**, and **Helm-based deployments** — crafted for **DevOps recruiters** and **practitioners** assessing **practical container orchestration skills**.
 
-It covers core Kubernetes concepts (Pods, Deployments, Services, ReplicaSets, ConfigMaps, Secrets, Namespaces, Ingress, Volumes, etc.) and extends to Helm packaging with a WordPress deployment for real practice.  
-The focus is on learning by doing — deploying, scaling, and managing workloads on **Minikube**, **Kops (AWS)**, and **Lens** clusters.
+It covers core **Kubernetes concepts** such as **Pods**, **Deployments**, **Services**, **ReplicaSets**, **ConfigMaps**, **Secrets**, **Namespaces**, **Ingress**, and **Volumes**, extending further into **Helm packaging** with a **WordPress deployment** for applied, real-world practice.
 
-💼 This project is part of my **DevOps Lab Series** — demonstrating Kubernetes automation, orchestration, and cluster-level deployment proficiency.
+The focus is on **learning by doing** — deploying, scaling, and managing workloads across multiple environments, including **Minikube**, **Kops (AWS)**, and **Lens clusters**.
+
+---
+
+💼 This project is part of my **DevOps Lab Series**, highlighting **Kubernetes automation**, **orchestration**, and **cluster-level deployment proficiency**.
 
 ---
 
